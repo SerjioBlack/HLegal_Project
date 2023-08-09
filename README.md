@@ -12,3 +12,4 @@
 - SCSS
 - BEM
 - Node.js
+- Swiper
